@@ -1,0 +1,3 @@
+ec2-user:~/environment $ python Lab4_1g.py
+{'ResponseMetadata': {'RequestId': 'a3353daf-fb2a-4287-a551-9bdc62665f59', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '227', 'date': 'Tue, 29 Oct 2019 19:36:21 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+ec2-user:~/environment $ 
