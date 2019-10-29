@@ -1,0 +1,7 @@
+ec2-user:~/environment $ python Lab4_3e.py
+ec2-user:~/environment $ python Lab4_3c.py
+Traceback (most recent call last):
+  File "Lab4_3c.py", line 16, in <module>
+    item = response['Item']
+KeyError: 'Item'
+ec2-user:~/environment $ 

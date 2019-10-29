@@ -1,0 +1,3 @@
+ec2-user:~/environment $ python Lab4_3a.py
+0
+ec2-user:~/environment $ 

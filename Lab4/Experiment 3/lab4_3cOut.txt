@@ -1,0 +1,3 @@
+ec2-user:~/environment $ python Lab4_3c.py
+{'last_name': 'Rogers', 'username': 'zcr006'}
+ec2-user:~/environment $ 

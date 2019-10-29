@@ -1,0 +1,6 @@
+ec2-user:~/environment $ python Lab4_3g.py
+Query:
+[{'last_name': 'last1', 'username': 'user2', 'age': Decimal('25')}, {'last_name': 'last2', 'username': 'user2', 'age': Decimal('39')}]
+Scan:
+[{'last_name': 'last1', 'username': 'user1', 'age': Decimal('19')}, {'last_name': 'last2', 'username': 'user1', 'age': Decimal('22')}]
+ec2-user:~/environment $ 
