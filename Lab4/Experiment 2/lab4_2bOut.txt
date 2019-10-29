@@ -1,0 +1,4 @@
+ec2-user:~/environment/2 $ python Lab4_2b.py
+Existing buckets:
+  zcrlabbuc
+ec2-user:~/environment/2 $ 

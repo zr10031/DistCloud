@@ -1,0 +1,2 @@
+ec2-user:~/environment/2 $ python Lab4_2a.py
+ec2-user:~/environment/2 $ 
