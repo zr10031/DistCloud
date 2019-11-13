@@ -1,0 +1,11 @@
+hadoop@zcr006:~$ ssh hadoop@zcr006-1
+Last login: Tue Nov 12 20:54:52 2019 from 192.168.1.148
+hadoop@zcr006:~$ exit
+logout
+Connection to zcr006-1 closed.
+hadoop@zcr006:~$ ssh hadoop@zcr006-2
+Last login: Tue Nov 7 15:05:06 2019 from 192.168.1.148
+hadoop@zcr006:~$ exit
+logout
+Connection to zcr006-2 closed.
+hadoop@zcr006:~$ 
